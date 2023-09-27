@@ -1,0 +1,13 @@
+Produk yang akan kami kembangkan adalah aplikasi web-based Shelter Monitoring 
+System yang berfungsi untuk memonitor kondisi shelter yang tersebar di berbagai wilayah. 
+Adapun terdapat beberapa hal yang dapat dilakukan oleh aplikasi web-based shelter monitoring 
+ini sebagai berikut : 
+
+a) User dapat mengakses informasi dari perusahaan. 
+b) Admin dapat mengakses informasi dari perusahaan 
+c) Admin dapat menambah atau mengurangi jumlah shelter pada server. 
+d) Admin dapat merubah dan mengelola web. 
+e) Produk bekerja dengan cara mengumpulkan dan menyimpan data dari semua shelter ke 
+   suatu server terpusat dan menampilkannya dalam bentuk GUI yang bisa diakses lewat web.  
+f) Aplikasi dapat digunakan oleh operator pemilik shelter untuk memantau kondisi shelter 
+   dan mengawasi jika ada alarm muncul dari server. 
